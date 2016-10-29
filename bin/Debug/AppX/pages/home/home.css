@@ -1,0 +1,16 @@
+﻿.homepage section[role=main] {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.fragment section[role=main]{
+    -ms-grid-row:2;
+    height:100%;
+}
+
+#basicFlipView
+{
+    width:1126px;
+    height:630px;
+    border:solid 1px black;
+}
